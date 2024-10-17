@@ -67,5 +67,4 @@ GitHub Actions is a powerful automation tool that allows you to create workflows
 ## Conclusion
 GitHub Actions is a versatile tool for automating your development workflows. By leveraging workflows, jobs, and actions, you can streamline processes like testing and deployment, making your development lifecycle more efficient.
 
-## [Takeaways](takeaways.md)
 ### [Table of Contents](README.md)
